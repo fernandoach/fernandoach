@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fernandoach
+- 👀 I’m interested in web development and artificial intelligence.
+- 🌱 I’m currently learning Next JS and TensorFlow.
+- 💞️ I’m looking to collaborate on projects focused on the web.
+- ⚡ Fun fact: There are only two things in this life, the things I will learn and the things I already know.
